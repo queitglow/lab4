@@ -1,3 +1,7 @@
 Илларионова Сахалина АнатольевнаStroka 1
 Stroka 2
+
 Konflict iz main
+
+izmenenie is zad2
+(Modify first.txt v zad2)
