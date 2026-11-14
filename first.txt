@@ -1,4 +1,8 @@
 Илларионова Сахалина АнатольевнаStroka 1
 Stroka 2
 Konflict iz main
+
 Konflict v zad3
+
+izmeneie vmain dlya zad3
+(update first.txt and add third.txt)
