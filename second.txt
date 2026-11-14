@@ -1,3 +1,4 @@
 Группа ИВТ26-1
 Stroka 1
 Stroka 2
+Stroka 3
